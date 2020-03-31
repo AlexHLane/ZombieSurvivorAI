@@ -1,7 +1,7 @@
 # ZombieSurvivorAI
 # Alexis Lane Feb - March 2020
 # DePaul AI class
-# Original project created by Will Meyer
+# Original project created by Will Meyers
 #
 #
 # In this project, I received a base code for the survivors animation, moveto, and death, along with the scene set up with enemies.
